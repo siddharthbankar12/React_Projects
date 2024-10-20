@@ -97,7 +97,7 @@ const TextForm = (props) => {
           {0.008 *
             text.split(/\s+/).filter((element) => {
               return element.length !== 0;
-            }).length}{" "} my-1
+            }).length}{" "}
           Minutes read
         </p>
         <h2>Preview</h2>
